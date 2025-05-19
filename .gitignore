@@ -1,0 +1,14 @@
+# Secrets and API keys
+.env
+
+# Output files
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS/system files
+.DS_Store
+Thumbs.db
